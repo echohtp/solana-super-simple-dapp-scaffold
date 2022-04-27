@@ -34,7 +34,7 @@ export const Navbar = () => {
           
         </Link>
         <button
-          className='inline-flex p-3 ml-auto rounded outline-none  lg:hidden'
+          className='inline-flex p-3 ml-auto rounded outline-none lg:hidden'
           onClick={handleClick}
         >
           <svg
