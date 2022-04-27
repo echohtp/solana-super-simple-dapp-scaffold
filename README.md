@@ -1,6 +1,8 @@
+## Super Simple Solana dApp Scaffold
+
 This is a [Next.js](https://nextjs.org/) Solana dApp boilerplate using [Tailwind CSS](https://tailwindcss.com/) framework. It's simplicity is its strength, connect and disconnect a wallet. Send an empty signed transaction. Fork and customize as needed! 
 
-## Visual
+## Screenshot
 
 <img width="1675" alt="image" src="https://user-images.githubusercontent.com/313060/165587536-2609ed86-e70d-4ec0-938f-442afbf701f7.png">
 
